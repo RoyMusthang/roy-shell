@@ -17,11 +17,11 @@ To install and run the simple shell, ensure you have Go installed on your machin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simple-shell-go.git
-   ```
+   git clone https://github.com/RoyMusthang/roy-shell   ```
+
 2. Navigate to the project directory:
    ```bash
-   cd simple-shell-go
+   cd roy-shell
    ```
 3. Build the project:
    ```bash
